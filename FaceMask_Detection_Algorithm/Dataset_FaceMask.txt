@@ -1,0 +1,8 @@
+*******FaceMask Dataset*********
+Copy to the link below to clone dataset to your device
+
+Link 1: https://github.com/i-harshraj/Mask-Wear-Detector?fbclid=IwAR3uVK1bW5GqDibgAZLyWvQWTU-ILu-yjKNI_F1b3DucZZaOYjB9izKyyvE
+
+Link 2: https://github.com/i-harshraj/Mask-Wear-Detector/tree/master/dataset
+
+You can only clone dataset from link1, link2 is the path of dataset when you clone done
