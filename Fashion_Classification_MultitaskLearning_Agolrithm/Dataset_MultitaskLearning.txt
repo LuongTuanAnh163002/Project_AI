@@ -1,0 +1,9 @@
+**************Fashion Dataset***************
+Copy link below to clone the dataset to your device:
+
+Link 1: https://github.com/phamdinhkhanh/khanhBlogTurtorial
+
+Link2: https://github.com/phamdinhkhanh/khanhBlogTurtorial/tree/master/Bai34-multitaskLearning/dataset
+
+You can only clone dataset from link1, link 2 is the path to the datasets when you clone done
+
