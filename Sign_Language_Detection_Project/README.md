@@ -1,8 +1,4 @@
 <h1>SIGN LANGUAGE DETECTION</h1>
-
-![image](https://github.com/LuongTuanAnh163002/Project_AI/assets/114805429/049fe447-a0d1-4619-848f-e877dfc88d7d)
-
-
 <h2>This is project about Sign Language Detection</h2>
 <h2>Instructure to use my repository:</h2>
 <h3>+ If you want to train your model:</h3>
