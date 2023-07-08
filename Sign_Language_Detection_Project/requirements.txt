@@ -1,0 +1,7 @@
+cvzone==1.5.6
+numpy==1.23.3
+opencv_contrib_python==4.7.0.68
+opencv_python==4.7.0.68
+python_vlc==3.0.18122
+tensorflow==2.11.0
+tensorflow_intel==2.11.0
