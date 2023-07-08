@@ -16,11 +16,11 @@
   <pre>cd path</pre>
   <h4>Step4: Install all packages need</h4> 
   <pre>pip install -r requirements.txt</pre>
-  <h4>Click to the link and dowload VLC file .exe</h4>
+  <h4>Step5: Click to the link and dowload VLC file .exe</h4>
   <a href = https://www.videolan.org/vlc/>Link dowload VLC</a>
   <h4>After dowload you only click next and install</h4>
   <h4>Step6: Open file Sign_Language_Detetion_Demo_Webcam.py and change the path of code in line 9 to your path</h4>
   <pre>os.add_dll_directory(r'....\VideoLAN\VLC')</pre>
-  <h4>If after you install in the step 4 and your path to VLC is same to me, you do not need to change code and skip the step 5</h4>
+  <h4>If after you install in the step 4 and your path to VLC is same to me, you do not need to change code and skip the step 6</h4>
   <h4>Step7: Run command line</h4>
   <pre>python Sign_Language_Detetion_Demo_Webcam.py</pre>
