@@ -1,6 +1,6 @@
                                                                 SIGN LANGUAGE DETECTION
 
-                            ![image](https://github.com/LuongTuanAnh163002/Project_AI/assets/114805429/049fe447-a0d1-4619-848f-e877dfc88d7d)
+![image](https://github.com/LuongTuanAnh163002/Project_AI/assets/114805429/049fe447-a0d1-4619-848f-e877dfc88d7d)
 
 
 This is project about Sign Language Detection
