@@ -1,18 +1,20 @@
-                                                                SIGN LANGUAGE DETECTION
+<h1>SIGN LANGUAGE DETECTION</h1>
 
 ![image](https://github.com/LuongTuanAnh163002/Project_AI/assets/114805429/049fe447-a0d1-4619-848f-e877dfc88d7d)
 
 
-This is project about Sign Language Detection
-
-
-* Instructure to use my repository:
-+ If you want to train your model:
-  - Open file Project_Sign_Language_Detection.ipynb and follow instruction in this file
+<h2>This is project about Sign Language Detection</h2>
+<h2>Instructure to use my repository:</h2>
+<h3>+ If you want to train your model:</h3>
+  <h4>- Open file Project_Sign_Language_Detection.ipynb and follow instruction in this file</h4>
   
-+ If you want to test:
-  - Step1: Open CMD
-  - Step2: Clone this reporitory to your computer use: git clone https://github.com/LuongTuanAnh163002/Project_AI.git
-  - Step3: Move to the Sign_Language_Detection_Project folder use: cd path
-  - Step4: Install all packages need use: pip install -r requirements.txt
-  - Step5: Run command line: python Sign_Language_Detetion_Demo_Webcam.py
+<h3>+ If you want to test:</h3>
+  <h4>Step1: Open CMD</h4>
+  <h4>Step2: Clone this reporitory to your computer</h4> 
+  <pre>git clone https://github.com/LuongTuanAnh163002/Project_AI.git</pre>
+  <h4>Step3: Move to the Sign_Language_Detection_Project folder</h4>
+  <pre>cd path</pre>
+  <h4>Step4: Install all packages need</h4> 
+  <pre>pip install -r requirements.txt</pre>
+  <h4>Step5: Run command line</h4>
+  <pre>python Sign_Language_Detetion_Demo_Webcam.py</pre>
